@@ -1,0 +1,12 @@
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\bin\Debug\netstandard2.0\Kelompok38.deps.json
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\bin\Debug\netstandard2.0\Kelompok38.dll
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\bin\Debug\netstandard2.0\Kelompok38.pdb
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.csproj.CoreCompileInputs.cache
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.App.xaml.g.cs
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.LoginPage.xaml.g.cs
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.MainPage.xaml.g.cs
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.SignUpPage.xaml.g.cs
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.AssemblyInfoInputs.cache
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.AssemblyInfo.cs
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.dll
+C:\Users\ACER E5-475G\source\repos\Kelompok38\Kelompok38\Kelompok38\obj\Debug\netstandard2.0\Kelompok38.pdb
